@@ -55,9 +55,11 @@ The dataset being used is
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+pandas - 1.3.4
+numpy - 1.20.3
+seaborn - 0.11.2
+sklearn - 0.24.2
+statsmodel - 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
